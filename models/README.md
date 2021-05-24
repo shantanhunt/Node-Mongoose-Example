@@ -11,3 +11,12 @@ Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node. js.
 - Make sure that you had created a database named confusion
 - Run `npm start`
 
+## Resources
+- [MoongooseJS](https://mongoosejs.com/)
+- [MoongooseJS Docs](https://mongoosejs.com/docs/guide.html)
+- [Moongoose Schemas](https://mongoosejs.com/docs/guide.html)
+- [Mongoose Models](https://mongoosejs.com/docs/models.html)
+- [Moongoose Subdocuments](mongoosejs.com/docs/subdocs.html)
+- [Moongoose Currency Package](https://www.npmjs.com/package/mongoose-currency)
+
+
